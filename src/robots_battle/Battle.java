@@ -33,5 +33,6 @@ public class Battle extends InputScanner {
             battlePhase.swapRobotsInList(robotList);
         } while (true);
         System.out.println("\nGame was closed. Thanks for playing!");
+        System.out.println("\nGame was closed. Thanks for playing!222");
     }
 }
