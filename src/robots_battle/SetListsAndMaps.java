@@ -19,7 +19,7 @@ public class SetListsAndMaps {
         return usedLetterMap;
     }
 
-    public static HashMap<String, Boolean> setHitLetter() {
+    public static HashMap<String, Boolean> setHitLetter() { //map for set letters as hitLetters
         HashMap<String, Boolean> hitLetter = setUsedLetter();
 
         HashMap<Integer, String> randomLetter = new HashMap<>();
