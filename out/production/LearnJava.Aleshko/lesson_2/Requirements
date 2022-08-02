@@ -1,0 +1,15 @@
+ДЗ №3
+1. Створити метод division(int var1, int var2)
+а також метод division(double var1, double var2).
+В цих методах обробити виключення там де це потрібно
+2. В основній програмі обявити масив {12, 5, -3, 45, 0, 10}
+3. В классі WorkWithMassive разробити метод
+void analyzwMassive (int[] massive, int varForComparing)
+в якому вивести повідомлення :
+- Якщо значення масиву меньше varForComparing - massive[i] + " Value is less than " + varForComparing
+- Якщо дорівнює то
+massive[i] + " Value is equal " + varForComparing
+- Якщо значення масиву більше varForComparing - massive[i] + " Value is more than " + varForComparing
+
+В методі обробити ексепшени.
+І пам'ятайте що тестувальник ніколи не робить стверджень! Все що не написано у вимогах (завданні) потребує уточнення(можна в загальний чат, можна в приват)

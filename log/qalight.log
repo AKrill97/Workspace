@@ -1,0 +1,13 @@
+2022-26-07 20:01:56  INFO [MainClass] : Info
+2022-26-07 20:01:56  ERROR [MainClass] : Error
+2022-26-07 20:10:45  INFO [MainClass] : Info
+2022-26-07 20:10:45  ERROR [MainClass] : Error
+2022-26-07 20:11:35  INFO [MainClass] : Info
+2022-26-07 20:11:35  DEBUG [MainClass] : Debug
+2022-26-07 20:11:35  ERROR [MainClass] : Error
+2022-26-07 20:30:28  ERROR [MainClass] : Error
+2022-26-07 20:30:28  INFO [MainClass] : Info
+2022-26-07 20:30:34  ERROR [MainClass] : Error
+2022-26-07 20:30:34  INFO [MainClass] : Info
+2022-26-07 21:04:24  ERROR [MainClass] : Error
+2022-26-07 21:04:24  INFO [MainClass] : Info
